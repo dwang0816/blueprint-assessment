@@ -1,0 +1,29 @@
+.ad-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.ad-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.campaign {
+  font-size: 18px;
+}
+
+.adset {
+  color: #666;
+}
+
+.ad-details {
+  font-size: 14px;
+  color: #333;
+}
